@@ -1,6 +1,5 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// Open Web Search library.
 library;
 
-export 'src/open_web_search_base.dart';
+export 'src/engines/engine.dart';
+export 'src/engines/wiki.dart';
