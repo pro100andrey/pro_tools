@@ -3,4 +3,4 @@
 /// More dartdocs go here.
 library;
 
-export 'src/open_search_base.dart';
+export 'src/open_web_search_base.dart';

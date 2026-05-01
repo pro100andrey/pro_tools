@@ -1,4 +1,4 @@
-import 'package:open_search/open_search.dart';
+import 'package:open_web_search/open_web_search.dart';
 import 'package:test/test.dart';
 
 void main() {
